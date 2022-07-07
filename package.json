@@ -11,7 +11,7 @@
   "dependencies": {
     "google-spreadsheet": "^3.0.10",
     "googleapis": "^52.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "puppeteer": "^2.0.0"
   },
   "devDependencies": {
